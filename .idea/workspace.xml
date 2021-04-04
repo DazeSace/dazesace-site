@@ -1,63 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e473f9-6461-4080-8e73-e13ea39b5c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContentBabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContentMain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/dazesace-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/polygoBgHor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/polygoBgVer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Babs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Error404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    <list default="true" id="e9e473f9-6461-4080-8e73-e13ea39b5c53" name="Default Changelist" comment="dunno my man">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -119,8 +65,16 @@
       <updated>1617472033192</updated>
       <workItem from="1617472034279" duration="741000" />
       <workItem from="1617472987071" duration="3844000" />
-      <workItem from="1617476853758" duration="6382000" />
+      <workItem from="1617476853758" duration="7343000" />
     </task>
+    <task id="LOCAL-00001" summary="dunno my man">
+      <created>1617528855037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617528855037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +91,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dunno my man" />
+    <option name="LAST_COMMIT_MESSAGE" value="dunno my man" />
   </component>
 </project>
